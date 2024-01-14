@@ -39,3 +39,4 @@ Open a command line interface and navigate to the root directory of the project.
 
 ### 4. Run the Setup Script
 Execute the following command to install all required dependencies:
+- `python setup.py`
